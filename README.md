@@ -136,4 +136,9 @@ Live Demo & GitHub Link:
 2. <a href="https://github.com/MoTechStore/Python-Flask-Blockchain-Based-Content-Sharing">MoTechStore Blockchain Sharing</a><br/>
 3. <a href="https://medium.com/@amannagpal4/how-to-create-your-own-decentralized-file-sharing-service-using-python-2e00005bdc4a">Medium: Decentralized File Sharing</a><br/>
 
+<img width="1391" alt="Screenshot 2025-04-07 at 5 00 10 PM" src="https://github.com/user-attachments/assets/64759b69-0420-428b-8b58-10d9aa4fe19b" />
+<img width="791" alt="Screenshot 2025-04-07 at 5 01 06 PM" src="https://github.com/user-attachments/assets/994edfd9-63fd-44d5-afb0-1d451d168053" />
+<img width="745" alt="Screenshot 2025-04-07 at 5 02 23 PM" src="https://github.com/user-attachments/assets/44eff813-3d9c-43a9-95d5-509f085ccf2d" />
+<img width="738" alt="Screenshot 2025-04-07 at 5 02 59 PM" src="https://github.com/user-attachments/assets/2084d339-9dfd-468e-b5a9-933a79d871b8" />
+
 ---
