@@ -131,14 +131,20 @@ Live Demo & GitHub Link:
 <a href="https://github.com/CrX1960/W3DS.PRO">https://github.com/CrX1960/W3DS.PRO</a>
 
 <h2>📚 References</h2>
+<ul>
+  <li><a href="https://github.com/JungWinter/file-on-blockchain">JungWinter/file-on-blockchain</a></li>
+  <li><a href="https://github.com/MoTechStore/Python-Flask-Blockchain-Based-Content-Sharing">MoTechStore Blockchain Sharing</a></li>
+  <li><a href="https://medium.com/@amannagpal4/how-to-create-your-own-decentralized-file-sharing-service-using-python-2e00005bdc4a">Medium: Decentralized File Sharing</a></li>
+</ul>
 
-1. <a href="https://github.com/JungWinter/file-on-blockchain">JungWinter/file-on-blockchain</a><br/>
-2. <a href="https://github.com/MoTechStore/Python-Flask-Blockchain-Based-Content-Sharing">MoTechStore Blockchain Sharing</a><br/>
-3. <a href="https://medium.com/@amannagpal4/how-to-create-your-own-decentralized-file-sharing-service-using-python-2e00005bdc4a">Medium: Decentralized File Sharing</a><br/>
-
-<img width="1391" alt="Screenshot 2025-04-07 at 5 00 10 PM" src="https://github.com/user-attachments/assets/64759b69-0420-428b-8b58-10d9aa4fe19b" />
-<img width="791" alt="Screenshot 2025-04-07 at 5 01 06 PM" src="https://github.com/user-attachments/assets/994edfd9-63fd-44d5-afb0-1d451d168053" />
-<img width="745" alt="Screenshot 2025-04-07 at 5 02 23 PM" src="https://github.com/user-attachments/assets/44eff813-3d9c-43a9-95d5-509f085ccf2d" />
-<img width="738" alt="Screenshot 2025-04-07 at 5 02 59 PM" src="https://github.com/user-attachments/assets/2084d339-9dfd-468e-b5a9-933a79d871b8" />
+<h2>🖼️ Screenshots</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 16px;">
+  <img src="https://github.com/user-attachments/assets/64759b69-0420-428b-8b58-10d9aa4fe19b" alt="Screenshot 1" style="width: 100%; max-width: 600px;" />
+  <img src="https://github.com/user-attachments/assets/994edfd9-63fd-44d5-afb0-1d451d168053" alt="Screenshot 2" style="width: 100%; max-width: 600px;" />
+  <img src="https://github.com/user-attachments/assets/44eff813-3d9c-43a9-95d5-509f085ccf2d" alt="Screenshot 3" style="width: 100%; max-width: 600px;" />
+  <img src="https://github.com/user-attachments/assets/2084d339-9dfd-468e-b5a9-933a79d871b8" alt="Screenshot 4" style="width: 100%; max-width: 600px;" />
+  <img src="https://github.com/user-attachments/assets/cfd357a5-f896-4dd8-8e2b-9884387001af" alt="Dashboard file upload section" style="width: 100%; max-width: 600px;" />
+  <img src="https://github.com/user-attachments/assets/51e07b4e-8ac1-411f-bb77-9d14955bb9af" alt="SHA256 user access error handling" style="width: 100%; max-width: 600px;" />
+</div>
 
 ---
